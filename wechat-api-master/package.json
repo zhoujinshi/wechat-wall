@@ -1,0 +1,25 @@
+{
+    "name": "wechat-api",
+    "description": "微信企业号API",
+    "version": "0.0.1",
+    "author": "konder",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/konder/wechat-api.git"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.5.2",
+        "errorhandler": "^1.1.1",
+        "express": "^4.8.0",
+        "express-session": "^1.7.2",
+        "method-override": "^2.1.2",
+        "morgan": "^1.2.2",
+        "multer": "^0.1.3",
+        "underscore": "^1.7.0",
+        "wechat-enterprise": "^0.0.9",
+        "node-schedule": "^0.1.15"
+    }
+}
