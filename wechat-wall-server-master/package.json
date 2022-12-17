@@ -19,7 +19,7 @@
     "morgan": "^1.2.2",
     "multer": "^1.4.5-lts.1",
     "socket.io": "^2.5.0",
-    "underscore": "^1.7.0",
+    "underscore": "^1.12.1",
     "wechat": "^2.1.0",
     "wechat-oauth": "^1.5.0"
   }
